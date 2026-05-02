@@ -1,0 +1,17 @@
+defaults:
+  - base
+
+dataset:
+  name: cifar10
+  num_classes: 10
+  image_size: 32
+  batch_size: 128
+
+attack:
+  name: badnets
+  poison_rate: 0.1
+  target_class: 0
+  trigger_size: 3
+
+defense:
+  name: xai_splitshield

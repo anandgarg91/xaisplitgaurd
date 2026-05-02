@@ -1,0 +1,68 @@
+# Base configuration for XAI-SplitShield experiments
+
+# ── Dataset ────────────────────────────────────────────────────────────────
+dataset:
+  name: cifar10          # cifar10 | gtsrb | xray
+  root: ./data/raw
+  num_classes: 10
+  image_size: 32
+  batch_size: 128
+  num_workers: 4
+
+# ── Split Learning Architecture ────────────────────────────────────────────
+model:
+  backbone: resnet18
+  split_layer: 2         # Layer index at which the network is cut
+  smashed_dim: 512       # Dimensionality of smashed data (C×H×W flattened)
+  pretrained: false
+
+# ── Training ───────────────────────────────────────────────────────────────
+training:
+  epochs: 100
+  lr: 0.01
+  momentum: 0.9
+  weight_decay: 5.0e-4
+  lr_scheduler: cosine
+  warmup_epochs: 5       # Clean warm-up rounds before defense activates
+  seed: 42
+
+# ── Attack ─────────────────────────────────────────────────────────────────
+attack:
+  name: badnets          # badnets | blended | wanet | lira | none
+  poison_rate: 0.1       # Fraction of training batches that are poisoned
+  target_class: 0
+  trigger_size: 3        # Pixel size of BadNets patch trigger
+  trigger_alpha: 0.2     # Blending coefficient for blended attack
+  adaptive: false        # Enable adaptive evasion against XAI detection
+
+# ── Multi-client ───────────────────────────────────────────────────────────
+federation:
+  num_clients: 1         # 1 = single-client SL
+  num_malicious: 0
+  data_distribution: iid
+
+# ── Defense ────────────────────────────────────────────────────────────────
+defense:
+  name: xai_splitshield  # xai_splitshield | splitguard | strip_sl | none
+  # SDA
+  sda_alpha: 0.6         # SHAP vs LRP mixing coefficient
+  sda_n_samples: 64      # LIME-SL perturbation samples
+  baseline: mean         # SHAP baseline: mean | zero
+  # AAS
+  aas_lambda: 0.5        # Weight between KL and L2 terms
+  aas_fpr: 0.01          # Target false positive rate for threshold calibration
+  aas_ema_decay: 0.95    # Exponential moving average decay
+  # AGNS
+  agns_epsilon_acc: 0.01 # Max tolerated clean accuracy drop (1%)
+  agns_p_mask: 1.0       # Masking probability for high-confidence neurons
+  # AWSA (multi-client)
+  awsa_beta: 2.0         # Trust weight decay coefficient
+  awsa_window: 10        # Look-back rounds for AAS averaging
+
+# ── Logging & Output ───────────────────────────────────────────────────────
+logging:
+  log_dir: ./results
+  tensorboard: true
+  log_interval: 10       # Log every N batches
+  eval_interval: 1       # Evaluate every N epochs
+  save_checkpoints: true

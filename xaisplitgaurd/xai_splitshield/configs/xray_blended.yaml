@@ -1,0 +1,17 @@
+defaults:
+  - base
+
+dataset:
+  name: xray
+  num_classes: 2
+  image_size: 32
+  batch_size: 64
+
+attack:
+  name: blended
+  poison_rate: 0.1
+  trigger_alpha: 0.1
+  target_class: 1
+
+defense:
+  name: xai_splitshield
