@@ -1,0 +1,16 @@
+defaults:
+  - base
+
+dataset:
+  name: gtsrb
+  num_classes: 43
+  image_size: 32
+  batch_size: 128
+
+attack:
+  name: wanet
+  poison_rate: 0.1
+  target_class: 0
+
+defense:
+  name: xai_splitshield

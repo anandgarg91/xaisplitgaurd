@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+.eggs/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Data (download separately)
+data/raw/
+
+# Results and checkpoints (large)
+results/
+*.pth
+*.pt
+*.ckpt
+
+# Notebooks output
+notebooks/.ipynb_checkpoints/
+notebooks/output/
+
+# Logs
+*.log
+*.jsonl
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test cache
+.pytest_cache/
+.coverage
+htmlcov/
