@@ -27,7 +27,7 @@ while [[ $# -gt 0 ]]; do
 done
 
 export CUDA_VISIBLE_DEVICES=$GPU
-RUNNER="python experiments/run_experiment.py"
+RUNNER="python3 experiments/run_experiment.py"
 
 echo "============================================================"
 echo "  XAI-SplitShield — Full Experiment Suite"
@@ -117,5 +117,5 @@ done
 echo ""
 echo "============================================================"
 echo "  All experiments complete. Results in: $LOG_DIR"
-echo "  Run: python experiments/collect_results.py --log_dir $LOG_DIR"
+echo "  Run: python3 experiments/collect_results.py --log_dir $LOG_DIR"
 echo "============================================================"
