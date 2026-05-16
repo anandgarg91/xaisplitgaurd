@@ -1,0 +1,118 @@
+[2026-05-16 16:32:26][cifar10_lira_xai_splitshield_split2_s42][INFO] TensorBoard writer initialized.
+[2026-05-16 16:32:26][cifar10_lira_xai_splitshield_split2_s42][INFO] Running: cifar10_lira_xai_splitshield_split2_s42
+[2026-05-16 16:32:26][cifar10_lira_xai_splitshield_split2_s42][INFO] Device: cuda
+[2026-05-16 16:32:27][cifar10_lira_xai_splitshield_split2_s42][INFO] Smashed data shape: torch.Size([128, 4, 4])  (d=2048)
+[2026-05-16 16:32:27][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 1] WARM-UP PHASE
+[2026-05-16 16:32:37][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 001][TRAIN] loss=1.7023 | train_acc=0.3850 | val_acc=0.4907 | asr=0.0000 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 16:32:37][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 2] WARM-UP PHASE
+[2026-05-16 16:32:48][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 002][TRAIN] loss=1.3699 | train_acc=0.5082 | val_acc=0.5754 | asr=0.0000 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 16:32:48][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 3] WARM-UP PHASE
+[2026-05-16 16:32:58][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 003][TRAIN] loss=1.2134 | train_acc=0.5676 | val_acc=0.6040 | asr=0.0000 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 16:32:58][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 4] WARM-UP PHASE
+[2026-05-16 16:33:09][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 004][TRAIN] loss=1.0943 | train_acc=0.6115 | val_acc=0.6253 | asr=0.0000 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 16:33:09][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 5] WARM-UP PHASE
+[2026-05-16 16:33:20][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 005][TRAIN] loss=1.0016 | train_acc=0.6458 | val_acc=0.6609 | asr=0.0000 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 16:33:20][cifar10_lira_xai_splitshield_split2_s42][INFO] Defense calibrated. Threshold τ = 2.9521
+[2026-05-16 16:33:47][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 006][TRAIN] loss=1.0130 | train_acc=0.6412 | val_acc=0.6606 | asr=0.0262 | aas_mean=3.0872 | precision=0.1087 | recall=0.3659 | f1=0.1676
+[2026-05-16 16:34:15][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 007][TRAIN] loss=0.9129 | train_acc=0.6758 | val_acc=0.7019 | asr=0.0614 | aas_mean=3.1992 | precision=0.0786 | recall=0.2895 | f1=0.1236
+[2026-05-16 16:34:42][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 008][TRAIN] loss=0.8707 | train_acc=0.6949 | val_acc=0.6832 | asr=0.1516 | aas_mean=3.0345 | precision=0.1404 | recall=0.4000 | f1=0.2078
+[2026-05-16 16:35:09][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 009][TRAIN] loss=0.8470 | train_acc=0.7003 | val_acc=0.6970 | asr=0.0494 | aas_mean=2.7740 | precision=0.1649 | recall=0.4103 | f1=0.2353
+[2026-05-16 16:35:37][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 010][TRAIN] loss=0.7995 | train_acc=0.7203 | val_acc=0.6742 | asr=0.0744 | aas_mean=2.9312 | precision=0.0752 | recall=0.3571 | f1=0.1242
+[2026-05-16 16:36:04][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 011][TRAIN] loss=0.7940 | train_acc=0.7225 | val_acc=0.6566 | asr=0.0329 | aas_mean=2.6822 | precision=0.0943 | recall=0.2703 | f1=0.1399
+[2026-05-16 16:36:31][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 012][TRAIN] loss=0.7702 | train_acc=0.7292 | val_acc=0.7128 | asr=0.0751 | aas_mean=2.7066 | precision=0.1552 | recall=0.4000 | f1=0.2236
+[2026-05-16 16:36:59][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 013][TRAIN] loss=0.7100 | train_acc=0.7530 | val_acc=0.7463 | asr=0.0461 | aas_mean=2.8983 | precision=0.1066 | recall=0.3824 | f1=0.1667
+[2026-05-16 16:37:26][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 014][TRAIN] loss=0.6872 | train_acc=0.7598 | val_acc=0.7533 | asr=0.0974 | aas_mean=2.3980 | precision=0.0667 | recall=0.1351 | f1=0.0893
+[2026-05-16 16:37:53][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 015][TRAIN] loss=0.6850 | train_acc=0.7622 | val_acc=0.7571 | asr=0.0658 | aas_mean=2.4647 | precision=0.0543 | recall=0.1163 | f1=0.0741
+[2026-05-16 16:38:20][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 016][TRAIN] loss=0.6747 | train_acc=0.7647 | val_acc=0.7489 | asr=0.0454 | aas_mean=2.6230 | precision=0.1038 | recall=0.2391 | f1=0.1447
+[2026-05-16 16:38:48][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 017][TRAIN] loss=0.6589 | train_acc=0.7689 | val_acc=0.7115 | asr=0.0133 | aas_mean=2.7138 | precision=0.1143 | recall=0.3871 | f1=0.1765
+[2026-05-16 16:39:15][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 018][TRAIN] loss=0.6315 | train_acc=0.7787 | val_acc=0.7525 | asr=0.3446 | aas_mean=2.4479 | precision=0.0988 | recall=0.2000 | f1=0.1322
+[2026-05-16 16:39:42][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 019][TRAIN] loss=0.6302 | train_acc=0.7778 | val_acc=0.7291 | asr=0.0767 | aas_mean=2.4786 | precision=0.1458 | recall=0.3182 | f1=0.2000
+[2026-05-16 16:40:09][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 020][TRAIN] loss=0.6190 | train_acc=0.7843 | val_acc=0.7616 | asr=0.0719 | aas_mean=2.6752 | precision=0.0577 | recall=0.1500 | f1=0.0833
+[2026-05-16 16:40:36][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 021][TRAIN] loss=0.6075 | train_acc=0.7877 | val_acc=0.7614 | asr=0.1154 | aas_mean=3.0658 | precision=0.1090 | recall=0.5152 | f1=0.1799
+[2026-05-16 16:41:03][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 022][TRAIN] loss=0.5825 | train_acc=0.7983 | val_acc=0.6962 | asr=0.0887 | aas_mean=2.9870 | precision=0.0647 | recall=0.2571 | f1=0.1034
+[2026-05-16 16:41:30][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 023][TRAIN] loss=0.5671 | train_acc=0.8017 | val_acc=0.7499 | asr=0.0634 | aas_mean=2.9690 | precision=0.1232 | recall=0.3778 | f1=0.1858
+[2026-05-16 16:41:57][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 024][TRAIN] loss=0.5513 | train_acc=0.8083 | val_acc=0.7708 | asr=0.0518 | aas_mean=3.0936 | precision=0.0709 | recall=0.2632 | f1=0.1117
+[2026-05-16 16:42:25][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 025][TRAIN] loss=0.5660 | train_acc=0.8018 | val_acc=0.7873 | asr=0.1166 | aas_mean=3.3951 | precision=0.1453 | recall=0.6098 | f1=0.2347
+[2026-05-16 16:42:52][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 026][TRAIN] loss=0.5467 | train_acc=0.8104 | val_acc=0.7574 | asr=0.0289 | aas_mean=3.1971 | precision=0.0784 | recall=0.2500 | f1=0.1194
+[2026-05-16 16:43:19][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 027][TRAIN] loss=0.5355 | train_acc=0.8115 | val_acc=0.7861 | asr=0.0346 | aas_mean=3.1003 | precision=0.0694 | recall=0.2778 | f1=0.1111
+[2026-05-16 16:43:46][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 028][TRAIN] loss=0.5374 | train_acc=0.8139 | val_acc=0.7853 | asr=0.0624 | aas_mean=3.0800 | precision=0.0764 | recall=0.3077 | f1=0.1224
+[2026-05-16 16:44:13][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 029][TRAIN] loss=0.4938 | train_acc=0.8267 | val_acc=0.7990 | asr=0.0264 | aas_mean=2.9894 | precision=0.0593 | recall=0.2581 | f1=0.0964
+[2026-05-16 16:44:40][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 030][TRAIN] loss=0.4765 | train_acc=0.8323 | val_acc=0.8046 | asr=0.0567 | aas_mean=3.1314 | precision=0.0872 | recall=0.4194 | f1=0.1444
+[2026-05-16 16:45:07][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 031][TRAIN] loss=0.4654 | train_acc=0.8375 | val_acc=0.8059 | asr=0.0506 | aas_mean=3.6237 | precision=0.0677 | recall=0.4815 | f1=0.1187
+[2026-05-16 16:45:35][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 032][TRAIN] loss=0.4675 | train_acc=0.8371 | val_acc=0.8082 | asr=0.0300 | aas_mean=3.2846 | precision=0.0774 | recall=0.4138 | f1=0.1304
+[2026-05-16 16:46:02][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 033][TRAIN] loss=0.4642 | train_acc=0.8364 | val_acc=0.7963 | asr=0.0518 | aas_mean=3.7901 | precision=0.0876 | recall=0.3864 | f1=0.1429
+[2026-05-16 16:46:30][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 034][TRAIN] loss=0.4670 | train_acc=0.8363 | val_acc=0.8020 | asr=0.0103 | aas_mean=4.7023 | precision=0.1055 | recall=0.5870 | f1=0.1788
+[2026-05-16 16:46:57][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 035][TRAIN] loss=0.4433 | train_acc=0.8438 | val_acc=0.8049 | asr=0.0503 | aas_mean=3.1698 | precision=0.0584 | recall=0.2500 | f1=0.0947
+[2026-05-16 16:47:24][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 036][TRAIN] loss=0.4414 | train_acc=0.8442 | val_acc=0.8002 | asr=0.0357 | aas_mean=3.1527 | precision=0.1234 | recall=0.4524 | f1=0.1939
+[2026-05-16 16:47:52][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 037][TRAIN] loss=0.4426 | train_acc=0.8453 | val_acc=0.7549 | asr=0.0421 | aas_mean=3.3279 | precision=0.0872 | recall=0.4286 | f1=0.1449
+[2026-05-16 16:48:19][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 038][TRAIN] loss=0.4454 | train_acc=0.8426 | val_acc=0.7869 | asr=0.0322 | aas_mean=2.4980 | precision=0.1170 | recall=0.2200 | f1=0.1528
+[2026-05-16 16:48:46][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 039][TRAIN] loss=0.4177 | train_acc=0.8530 | val_acc=0.8068 | asr=0.1092 | aas_mean=2.8316 | precision=0.1395 | recall=0.4615 | f1=0.2143
+[2026-05-16 16:49:14][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 040][TRAIN] loss=0.3999 | train_acc=0.8593 | val_acc=0.8111 | asr=0.0837 | aas_mean=2.9265 | precision=0.0923 | recall=0.3871 | f1=0.1491
+[2026-05-16 16:49:41][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 041][TRAIN] loss=0.4067 | train_acc=0.8562 | val_acc=0.8075 | asr=0.0411 | aas_mean=3.4096 | precision=0.0932 | recall=0.3488 | f1=0.1471
+[2026-05-16 16:50:08][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 042][TRAIN] loss=0.4028 | train_acc=0.8577 | val_acc=0.8020 | asr=0.0681 | aas_mean=3.2639 | precision=0.0633 | recall=0.2273 | f1=0.0990
+[2026-05-16 16:50:35][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 043][TRAIN] loss=0.4020 | train_acc=0.8567 | val_acc=0.8160 | asr=0.0369 | aas_mean=3.3734 | precision=0.1394 | recall=0.5349 | f1=0.2212
+[2026-05-16 16:51:02][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 044][TRAIN] loss=0.4014 | train_acc=0.8589 | val_acc=0.8084 | asr=0.0208 | aas_mean=2.8097 | precision=0.1138 | recall=0.2500 | f1=0.1564
+[2026-05-16 16:51:29][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 045][TRAIN] loss=0.3645 | train_acc=0.8712 | val_acc=0.8220 | asr=0.0636 | aas_mean=2.8021 | precision=0.0866 | recall=0.3333 | f1=0.1375
+[2026-05-16 16:51:56][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 046][TRAIN] loss=0.3586 | train_acc=0.8732 | val_acc=0.8220 | asr=0.1033 | aas_mean=2.7187 | precision=0.1204 | recall=0.3714 | f1=0.1818
+[2026-05-16 16:52:23][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 047][TRAIN] loss=0.3597 | train_acc=0.8732 | val_acc=0.8186 | asr=0.0820 | aas_mean=2.3788 | precision=0.0874 | recall=0.2093 | f1=0.1233
+[2026-05-16 16:52:50][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 048][TRAIN] loss=0.3396 | train_acc=0.8803 | val_acc=0.8224 | asr=0.0451 | aas_mean=3.1259 | precision=0.0625 | recall=0.2727 | f1=0.1017
+[2026-05-16 16:53:18][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 049][TRAIN] loss=0.3365 | train_acc=0.8815 | val_acc=0.8106 | asr=0.0361 | aas_mean=2.5388 | precision=0.0926 | recall=0.2857 | f1=0.1399
+[2026-05-16 16:53:45][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 050][TRAIN] loss=0.3398 | train_acc=0.8799 | val_acc=0.8243 | asr=0.0333 | aas_mean=2.4390 | precision=0.1810 | recall=0.3878 | f1=0.2468
+[2026-05-16 16:54:12][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 051][TRAIN] loss=0.3167 | train_acc=0.8889 | val_acc=0.8182 | asr=0.0279 | aas_mean=3.6618 | precision=0.0606 | recall=0.4138 | f1=0.1057
+[2026-05-16 16:54:39][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 052][TRAIN] loss=0.3130 | train_acc=0.8889 | val_acc=0.8315 | asr=0.0304 | aas_mean=2.7023 | precision=0.0893 | recall=0.2778 | f1=0.1351
+[2026-05-16 16:55:07][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 053][TRAIN] loss=0.3221 | train_acc=0.8842 | val_acc=0.8146 | asr=0.0634 | aas_mean=2.5097 | precision=0.0652 | recall=0.1333 | f1=0.0876
+[2026-05-16 16:55:34][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 054][TRAIN] loss=0.3048 | train_acc=0.8935 | val_acc=0.8149 | asr=0.0741 | aas_mean=2.1374 | precision=0.1250 | recall=0.1951 | f1=0.1524
+[2026-05-16 16:56:00][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 055][TRAIN] loss=0.3102 | train_acc=0.8903 | val_acc=0.8192 | asr=0.0453 | aas_mean=2.0640 | precision=0.1594 | recall=0.2340 | f1=0.1897
+[2026-05-16 16:56:27][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 056][TRAIN] loss=0.2843 | train_acc=0.8981 | val_acc=0.8156 | asr=0.0936 | aas_mean=2.6730 | precision=0.1057 | recall=0.3611 | f1=0.1635
+[2026-05-16 16:56:55][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 057][TRAIN] loss=0.2807 | train_acc=0.8994 | val_acc=0.8072 | asr=0.0932 | aas_mean=3.9874 | precision=0.1283 | recall=0.7632 | f1=0.2197
+[2026-05-16 16:57:22][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 058][TRAIN] loss=0.2973 | train_acc=0.8931 | val_acc=0.8146 | asr=0.0600 | aas_mean=2.6542 | precision=0.2110 | recall=0.4423 | f1=0.2857
+[2026-05-16 16:57:49][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 059][TRAIN] loss=0.2786 | train_acc=0.9019 | val_acc=0.8166 | asr=0.0781 | aas_mean=2.3006 | precision=0.1573 | recall=0.3182 | f1=0.2105
+[2026-05-16 16:58:15][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 060][TRAIN] loss=0.2678 | train_acc=0.9061 | val_acc=0.8226 | asr=0.0464 | aas_mean=2.0888 | precision=0.1622 | recall=0.2927 | f1=0.2087
+[2026-05-16 16:58:43][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 061][TRAIN] loss=0.2619 | train_acc=0.9071 | val_acc=0.8082 | asr=0.0312 | aas_mean=2.5786 | precision=0.1754 | recall=0.4878 | f1=0.2581
+[2026-05-16 16:59:09][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 062][TRAIN] loss=0.2516 | train_acc=0.9109 | val_acc=0.8216 | asr=0.0392 | aas_mean=2.1563 | precision=0.1176 | recall=0.2051 | f1=0.1495
+[2026-05-16 16:59:36][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 063][TRAIN] loss=0.2443 | train_acc=0.9122 | val_acc=0.8343 | asr=0.0546 | aas_mean=2.3104 | precision=0.1529 | recall=0.3333 | f1=0.2097
+[2026-05-16 17:00:03][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 064][TRAIN] loss=0.2374 | train_acc=0.9164 | val_acc=0.8292 | asr=0.0579 | aas_mean=2.5793 | precision=0.1810 | recall=0.5385 | f1=0.2710
+[2026-05-16 17:00:30][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 065][TRAIN] loss=0.2415 | train_acc=0.9140 | val_acc=0.8231 | asr=0.0367 | aas_mean=2.5383 | precision=0.2404 | recall=0.5102 | f1=0.3268
+[2026-05-16 17:00:56][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 066][TRAIN] loss=0.2036 | train_acc=0.9275 | val_acc=0.8270 | asr=0.0328 | aas_mean=2.1029 | precision=0.0725 | recall=0.2174 | f1=0.1087
+[2026-05-16 17:01:23][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 067][TRAIN] loss=0.2086 | train_acc=0.9263 | val_acc=0.8239 | asr=0.1304 | aas_mean=2.1318 | precision=0.2152 | recall=0.5152 | f1=0.3036
+[2026-05-16 17:01:50][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 068][TRAIN] loss=0.1945 | train_acc=0.9312 | val_acc=0.8174 | asr=0.0259 | aas_mean=2.2689 | precision=0.1915 | recall=0.6000 | f1=0.2903
+[2026-05-16 17:02:16][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 069][TRAIN] loss=0.2107 | train_acc=0.9264 | val_acc=0.8278 | asr=0.0409 | aas_mean=2.4237 | precision=0.2700 | recall=0.6279 | f1=0.3776
+[2026-05-16 17:02:43][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 070][TRAIN] loss=0.2015 | train_acc=0.9291 | val_acc=0.8197 | asr=0.0658 | aas_mean=2.3248 | precision=0.2967 | recall=0.6000 | f1=0.3971
+[2026-05-16 17:03:09][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 071][TRAIN] loss=0.1876 | train_acc=0.9337 | val_acc=0.8312 | asr=0.0796 | aas_mean=2.3956 | precision=0.2788 | recall=0.7838 | f1=0.4113
+[2026-05-16 17:03:36][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 072][TRAIN] loss=0.1769 | train_acc=0.9376 | val_acc=0.8320 | asr=0.0609 | aas_mean=2.3055 | precision=0.2526 | recall=0.6857 | f1=0.3692
+[2026-05-16 17:04:03][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 073][TRAIN] loss=0.1766 | train_acc=0.9379 | val_acc=0.8313 | asr=0.0519 | aas_mean=2.3474 | precision=0.3107 | recall=0.8649 | f1=0.4571
+[2026-05-16 17:04:29][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 074][TRAIN] loss=0.1700 | train_acc=0.9409 | val_acc=0.8307 | asr=0.0290 | aas_mean=2.1409 | precision=0.4167 | recall=0.7500 | f1=0.5357
+[2026-05-16 17:04:55][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 075][TRAIN] loss=0.1587 | train_acc=0.9441 | val_acc=0.8364 | asr=0.0451 | aas_mean=2.0522 | precision=0.4051 | recall=0.8421 | f1=0.5470
+[2026-05-16 17:05:22][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 076][TRAIN] loss=0.1549 | train_acc=0.9453 | val_acc=0.8270 | asr=0.0472 | aas_mean=2.0117 | precision=0.4000 | recall=0.8485 | f1=0.5437
+[2026-05-16 17:05:48][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 077][TRAIN] loss=0.1579 | train_acc=0.9442 | val_acc=0.8286 | asr=0.0577 | aas_mean=1.9735 | precision=0.4478 | recall=0.6977 | f1=0.5455
+[2026-05-16 17:06:15][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 078][TRAIN] loss=0.1436 | train_acc=0.9492 | val_acc=0.8333 | asr=0.0576 | aas_mean=1.8340 | precision=0.3396 | recall=0.5143 | f1=0.4091
+[2026-05-16 17:06:41][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 079][TRAIN] loss=0.1456 | train_acc=0.9494 | val_acc=0.8321 | asr=0.0706 | aas_mean=1.9411 | precision=0.4571 | recall=0.7805 | f1=0.5766
+[2026-05-16 17:07:07][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 080][TRAIN] loss=0.1347 | train_acc=0.9529 | val_acc=0.8333 | asr=0.0744 | aas_mean=1.8001 | precision=0.4032 | recall=0.7143 | f1=0.5155
+[2026-05-16 17:07:34][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 081][TRAIN] loss=0.1368 | train_acc=0.9513 | val_acc=0.8416 | asr=0.0748 | aas_mean=1.9322 | precision=0.4098 | recall=0.6098 | f1=0.4902
+[2026-05-16 17:08:00][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 082][TRAIN] loss=0.1303 | train_acc=0.9544 | val_acc=0.8361 | asr=0.0783 | aas_mean=1.9402 | precision=0.4375 | recall=0.7368 | f1=0.5490
+[2026-05-16 17:08:26][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 083][TRAIN] loss=0.1269 | train_acc=0.9564 | val_acc=0.8288 | asr=0.0618 | aas_mean=1.8214 | precision=0.5846 | recall=0.8444 | f1=0.6909
+[2026-05-16 17:08:53][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 084][TRAIN] loss=0.1226 | train_acc=0.9572 | val_acc=0.8340 | asr=0.0367 | aas_mean=1.8087 | precision=0.6346 | recall=0.8250 | f1=0.7174
+[2026-05-16 17:09:19][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 085][TRAIN] loss=0.1090 | train_acc=0.9622 | val_acc=0.8195 | asr=0.0378 | aas_mean=1.7835 | precision=0.4286 | recall=0.7059 | f1=0.5333
+[2026-05-16 17:09:45][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 086][TRAIN] loss=0.1133 | train_acc=0.9620 | val_acc=0.8379 | asr=0.0582 | aas_mean=1.8785 | precision=0.4930 | recall=0.8750 | f1=0.6306
+[2026-05-16 17:10:12][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 087][TRAIN] loss=0.1080 | train_acc=0.9632 | val_acc=0.8382 | asr=0.0372 | aas_mean=1.6678 | precision=0.4561 | recall=0.7429 | f1=0.5652
+[2026-05-16 17:10:38][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 088][TRAIN] loss=0.1100 | train_acc=0.9628 | val_acc=0.8367 | asr=0.0586 | aas_mean=1.8110 | precision=0.5254 | recall=0.7561 | f1=0.6200
+[2026-05-16 17:11:04][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 089][TRAIN] loss=0.1058 | train_acc=0.9641 | val_acc=0.8273 | asr=0.0684 | aas_mean=1.6678 | precision=0.5192 | recall=0.7105 | f1=0.6000
+[2026-05-16 17:11:31][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 090][TRAIN] loss=0.1064 | train_acc=0.9640 | val_acc=0.8360 | asr=0.0393 | aas_mean=1.7026 | precision=0.5862 | recall=0.8095 | f1=0.6800
+[2026-05-16 17:11:57][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 091][TRAIN] loss=0.1068 | train_acc=0.9635 | val_acc=0.8337 | asr=0.0476 | aas_mean=1.7109 | precision=0.5600 | recall=0.6512 | f1=0.6022
+[2026-05-16 17:12:23][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 092][TRAIN] loss=0.0834 | train_acc=0.9720 | val_acc=0.8202 | asr=0.0364 | aas_mean=1.4347 | precision=0.3158 | recall=0.5455 | f1=0.4000
+[2026-05-16 17:12:49][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 093][TRAIN] loss=0.0909 | train_acc=0.9691 | val_acc=0.8319 | asr=0.0713 | aas_mean=1.5893 | precision=0.4545 | recall=0.8065 | f1=0.5814
+[2026-05-16 17:13:16][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 094][TRAIN] loss=0.0847 | train_acc=0.9720 | val_acc=0.8395 | asr=0.0637 | aas_mean=1.5651 | precision=0.3556 | recall=0.5517 | f1=0.4324
+[2026-05-16 17:13:42][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 095][TRAIN] loss=0.0923 | train_acc=0.9685 | val_acc=0.8302 | asr=0.0501 | aas_mean=1.6147 | precision=0.5472 | recall=0.8788 | f1=0.6744
+[2026-05-16 17:14:09][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 096][TRAIN] loss=0.0955 | train_acc=0.9682 | val_acc=0.8309 | asr=0.0734 | aas_mean=1.6232 | precision=0.4906 | recall=0.7027 | f1=0.5778
+[2026-05-16 17:14:35][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 097][TRAIN] loss=0.0999 | train_acc=0.9663 | val_acc=0.8366 | asr=0.0762 | aas_mean=1.7818 | precision=0.5246 | recall=0.7442 | f1=0.6154
+[2026-05-16 17:15:01][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 098][TRAIN] loss=0.1002 | train_acc=0.9662 | val_acc=0.8312 | asr=0.0482 | aas_mean=1.6781 | precision=0.6071 | recall=0.8293 | f1=0.7010
+[2026-05-16 17:15:28][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 099][TRAIN] loss=0.0849 | train_acc=0.9719 | val_acc=0.8288 | asr=0.0559 | aas_mean=1.6292 | precision=0.3684 | recall=0.7241 | f1=0.4884
+[2026-05-16 17:15:54][cifar10_lira_xai_splitshield_split2_s42][INFO] [Epoch 100][TRAIN] loss=0.1137 | train_acc=0.9616 | val_acc=0.8309 | asr=0.0753 | aas_mean=1.8079 | precision=0.6833 | recall=0.7736 | f1=0.7257
+[2026-05-16 17:16:02][cifar10_lira_xai_splitshield_split2_s42][INFO] Final summary saved to results/cifar10_lira_xai_splitshield_split2_s42/summary.json
+[2026-05-16 17:16:02][cifar10_lira_xai_splitshield_split2_s42][INFO] Results: {'run_name': 'cifar10_lira_xai_splitshield_split2_s42', 'final_ca': 83.1, 'final_asr': 7.53, 'config': {'dataset': 'cifar10', 'attack': 'lira', 'defense': 'xai_splitshield', 'split_layer': 2, 'poison_rate': 0.1, 'epochs': 100, 'batch_size': 128, 'lr': 0.01, 'seed': 42, 'num_clients': 1, 'num_malicious': 0, 'target_class': 0, 'log_dir': './results', 'warmup_epochs': 5, 'image_size': 32, 'num_workers': 4, 'weight_decay': 0.0005, 'adaptive': False, 'ablation': False}}
+[2026-05-16 17:16:02][cifar10_lira_xai_splitshield_split2_s42][INFO] 
+==================================================
+[2026-05-16 17:16:02][cifar10_lira_xai_splitshield_split2_s42][INFO] FINAL  CA = 83.10%   ASR = 7.53%
+[2026-05-16 17:16:02][cifar10_lira_xai_splitshield_split2_s42][INFO] ==================================================
+
+[2026-05-16 17:16:02][cifar10_lira_xai_splitshield_split2_s42][INFO] Models saved to results/cifar10_lira_xai_splitshield_split2_s42/checkpoints
