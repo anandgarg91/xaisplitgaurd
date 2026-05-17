@@ -1,0 +1,26 @@
+{
+  "run_name": "cifar10_lira_none_split2_s42",
+  "final_ca": 74.4,
+  "final_asr": 5.53,
+  "config": {
+    "dataset": "cifar10",
+    "attack": "lira",
+    "defense": "none",
+    "split_layer": 2,
+    "poison_rate": 0.1,
+    "epochs": 10,
+    "num_clients": 10,
+    "num_malicious": 3,
+    "batch_size": 128,
+    "lr": 0.01,
+    "seed": 42,
+    "target_class": 0,
+    "log_dir": "./results",
+    "warmup_epochs": 5,
+    "image_size": 32,
+    "num_workers": 4,
+    "weight_decay": 0.0005,
+    "adaptive": false,
+    "ablation": false
+  }
+}
