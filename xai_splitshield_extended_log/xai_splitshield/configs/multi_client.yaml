@@ -1,0 +1,23 @@
+defaults:
+  - base
+
+dataset:
+  name: cifar10
+  num_classes: 10
+  image_size: 32
+  batch_size: 128
+
+attack:
+  name: wanet
+  poison_rate: 0.1
+  target_class: 0
+
+federation:
+  num_clients: 10
+  num_malicious: 3
+  data_distribution: iid
+
+defense:
+  name: xai_splitshield
+  awsa_beta: 2.0
+  awsa_window: 10
