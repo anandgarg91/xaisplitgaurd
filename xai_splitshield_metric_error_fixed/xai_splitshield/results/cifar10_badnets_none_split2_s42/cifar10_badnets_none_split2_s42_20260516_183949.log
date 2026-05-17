@@ -1,0 +1,117 @@
+[2026-05-16 18:39:49][cifar10_badnets_none_split2_s42][INFO] TensorBoard writer initialized.
+[2026-05-16 18:39:49][cifar10_badnets_none_split2_s42][INFO] Running: cifar10_badnets_none_split2_s42
+[2026-05-16 18:39:49][cifar10_badnets_none_split2_s42][INFO] Device: cuda
+[2026-05-16 18:39:50][cifar10_badnets_none_split2_s42][INFO] Smashed data shape: torch.Size([128, 4, 4])  (d=2048)
+[2026-05-16 18:39:50][cifar10_badnets_none_split2_s42][INFO] [Epoch 1] WARM-UP PHASE
+[2026-05-16 18:39:52][cifar10_badnets_none_split2_s42][INFO] [Epoch 001][TRAIN] loss=2.0174 | train_acc=0.3186 | val_acc=0.4806 | asr=0.0000 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:39:52][cifar10_badnets_none_split2_s42][INFO] [Epoch 2] WARM-UP PHASE
+[2026-05-16 18:39:54][cifar10_badnets_none_split2_s42][INFO] [Epoch 002][TRAIN] loss=1.5903 | train_acc=0.4298 | val_acc=0.5331 | asr=0.0000 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:39:54][cifar10_badnets_none_split2_s42][INFO] [Epoch 3] WARM-UP PHASE
+[2026-05-16 18:39:55][cifar10_badnets_none_split2_s42][INFO] [Epoch 003][TRAIN] loss=1.4594 | train_acc=0.4742 | val_acc=0.5487 | asr=0.0000 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:39:55][cifar10_badnets_none_split2_s42][INFO] [Epoch 4] WARM-UP PHASE
+[2026-05-16 18:39:57][cifar10_badnets_none_split2_s42][INFO] [Epoch 004][TRAIN] loss=1.3362 | train_acc=0.5268 | val_acc=0.6189 | asr=0.0000 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:39:57][cifar10_badnets_none_split2_s42][INFO] [Epoch 5] WARM-UP PHASE
+[2026-05-16 18:39:59][cifar10_badnets_none_split2_s42][INFO] [Epoch 005][TRAIN] loss=1.2120 | train_acc=0.5781 | val_acc=0.6211 | asr=0.0000 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:40:01][cifar10_badnets_none_split2_s42][INFO] [Epoch 006][TRAIN] loss=1.1969 | train_acc=0.5844 | val_acc=0.6681 | asr=0.0399 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:40:03][cifar10_badnets_none_split2_s42][INFO] [Epoch 007][TRAIN] loss=1.1431 | train_acc=0.6015 | val_acc=0.6778 | asr=0.0936 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:40:05][cifar10_badnets_none_split2_s42][INFO] [Epoch 008][TRAIN] loss=1.0854 | train_acc=0.6180 | val_acc=0.6904 | asr=0.0287 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:40:07][cifar10_badnets_none_split2_s42][INFO] [Epoch 009][TRAIN] loss=1.0496 | train_acc=0.6389 | val_acc=0.6621 | asr=0.1180 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:40:09][cifar10_badnets_none_split2_s42][INFO] [Epoch 010][TRAIN] loss=0.8085 | train_acc=0.7221 | val_acc=0.6956 | asr=0.0862 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:40:11][cifar10_badnets_none_split2_s42][INFO] [Epoch 011][TRAIN] loss=0.7178 | train_acc=0.7509 | val_acc=0.7125 | asr=0.0454 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:40:13][cifar10_badnets_none_split2_s42][INFO] [Epoch 012][TRAIN] loss=0.6760 | train_acc=0.7634 | val_acc=0.7250 | asr=0.0502 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:40:15][cifar10_badnets_none_split2_s42][INFO] [Epoch 013][TRAIN] loss=0.6710 | train_acc=0.7660 | val_acc=0.7337 | asr=0.0252 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:40:17][cifar10_badnets_none_split2_s42][INFO] [Epoch 014][TRAIN] loss=0.6370 | train_acc=0.7784 | val_acc=0.7546 | asr=0.0270 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:40:19][cifar10_badnets_none_split2_s42][INFO] [Epoch 015][TRAIN] loss=0.6042 | train_acc=0.7880 | val_acc=0.7516 | asr=0.0267 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:40:21][cifar10_badnets_none_split2_s42][INFO] [Epoch 016][TRAIN] loss=0.5841 | train_acc=0.7964 | val_acc=0.7489 | asr=0.0528 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:40:23][cifar10_badnets_none_split2_s42][INFO] [Epoch 017][TRAIN] loss=0.5924 | train_acc=0.7933 | val_acc=0.7535 | asr=0.0390 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:40:25][cifar10_badnets_none_split2_s42][INFO] [Epoch 018][TRAIN] loss=0.5575 | train_acc=0.8044 | val_acc=0.7640 | asr=0.0409 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:40:27][cifar10_badnets_none_split2_s42][INFO] [Epoch 019][TRAIN] loss=0.5398 | train_acc=0.8112 | val_acc=0.7696 | asr=0.0190 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:40:28][cifar10_badnets_none_split2_s42][INFO] [Epoch 020][TRAIN] loss=0.5246 | train_acc=0.8175 | val_acc=0.7826 | asr=0.0171 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:40:30][cifar10_badnets_none_split2_s42][INFO] [Epoch 021][TRAIN] loss=0.5292 | train_acc=0.8149 | val_acc=0.7762 | asr=0.0253 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:40:33][cifar10_badnets_none_split2_s42][INFO] [Epoch 022][TRAIN] loss=0.5059 | train_acc=0.8224 | val_acc=0.7635 | asr=0.1176 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:40:35][cifar10_badnets_none_split2_s42][INFO] [Epoch 023][TRAIN] loss=0.4794 | train_acc=0.8318 | val_acc=0.7706 | asr=0.0531 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:40:37][cifar10_badnets_none_split2_s42][INFO] [Epoch 024][TRAIN] loss=0.4832 | train_acc=0.8308 | val_acc=0.7900 | asr=0.0164 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:40:38][cifar10_badnets_none_split2_s42][INFO] [Epoch 025][TRAIN] loss=0.4654 | train_acc=0.8364 | val_acc=0.7897 | asr=0.0208 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:40:41][cifar10_badnets_none_split2_s42][INFO] [Epoch 026][TRAIN] loss=0.4448 | train_acc=0.8450 | val_acc=0.7925 | asr=0.0139 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:40:42][cifar10_badnets_none_split2_s42][INFO] [Epoch 027][TRAIN] loss=0.4517 | train_acc=0.8433 | val_acc=0.7845 | asr=0.0454 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:40:44][cifar10_badnets_none_split2_s42][INFO] [Epoch 028][TRAIN] loss=0.4397 | train_acc=0.8458 | val_acc=0.7896 | asr=0.0359 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:40:46][cifar10_badnets_none_split2_s42][INFO] [Epoch 029][TRAIN] loss=0.4430 | train_acc=0.8440 | val_acc=0.8022 | asr=0.0159 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:40:48][cifar10_badnets_none_split2_s42][INFO] [Epoch 030][TRAIN] loss=0.4347 | train_acc=0.8482 | val_acc=0.7976 | asr=0.0203 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:40:50][cifar10_badnets_none_split2_s42][INFO] [Epoch 031][TRAIN] loss=0.4226 | train_acc=0.8515 | val_acc=0.8064 | asr=0.0643 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:40:52][cifar10_badnets_none_split2_s42][INFO] [Epoch 032][TRAIN] loss=0.4120 | train_acc=0.8554 | val_acc=0.8095 | asr=0.0216 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:40:54][cifar10_badnets_none_split2_s42][INFO] [Epoch 033][TRAIN] loss=0.3893 | train_acc=0.8633 | val_acc=0.8117 | asr=0.0243 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:40:56][cifar10_badnets_none_split2_s42][INFO] [Epoch 034][TRAIN] loss=0.3758 | train_acc=0.8670 | val_acc=0.8062 | asr=0.0344 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:40:58][cifar10_badnets_none_split2_s42][INFO] [Epoch 035][TRAIN] loss=0.3836 | train_acc=0.8658 | val_acc=0.8066 | asr=0.0328 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:41:00][cifar10_badnets_none_split2_s42][INFO] [Epoch 036][TRAIN] loss=0.3689 | train_acc=0.8718 | val_acc=0.8175 | asr=0.0137 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:41:02][cifar10_badnets_none_split2_s42][INFO] [Epoch 037][TRAIN] loss=0.3665 | train_acc=0.8718 | val_acc=0.8221 | asr=0.0168 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:41:04][cifar10_badnets_none_split2_s42][INFO] [Epoch 038][TRAIN] loss=0.3426 | train_acc=0.8809 | val_acc=0.8231 | asr=0.0198 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:41:06][cifar10_badnets_none_split2_s42][INFO] [Epoch 039][TRAIN] loss=0.3477 | train_acc=0.8791 | val_acc=0.8102 | asr=0.0439 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:41:08][cifar10_badnets_none_split2_s42][INFO] [Epoch 040][TRAIN] loss=0.3524 | train_acc=0.8754 | val_acc=0.8151 | asr=0.0182 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:41:10][cifar10_badnets_none_split2_s42][INFO] [Epoch 041][TRAIN] loss=0.3322 | train_acc=0.8837 | val_acc=0.8192 | asr=0.0476 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:41:12][cifar10_badnets_none_split2_s42][INFO] [Epoch 042][TRAIN] loss=0.3172 | train_acc=0.8880 | val_acc=0.8198 | asr=0.0237 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:41:14][cifar10_badnets_none_split2_s42][INFO] [Epoch 043][TRAIN] loss=0.3179 | train_acc=0.8872 | val_acc=0.8232 | asr=0.0228 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:41:16][cifar10_badnets_none_split2_s42][INFO] [Epoch 044][TRAIN] loss=0.2962 | train_acc=0.8939 | val_acc=0.8177 | asr=0.0773 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:41:18][cifar10_badnets_none_split2_s42][INFO] [Epoch 045][TRAIN] loss=0.3126 | train_acc=0.8892 | val_acc=0.8264 | asr=0.0181 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:41:20][cifar10_badnets_none_split2_s42][INFO] [Epoch 046][TRAIN] loss=0.3025 | train_acc=0.8928 | val_acc=0.8284 | asr=0.0198 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:41:22][cifar10_badnets_none_split2_s42][INFO] [Epoch 047][TRAIN] loss=0.2866 | train_acc=0.8981 | val_acc=0.8145 | asr=0.1054 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:41:24][cifar10_badnets_none_split2_s42][INFO] [Epoch 048][TRAIN] loss=0.2888 | train_acc=0.8966 | val_acc=0.8204 | asr=0.0331 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:41:26][cifar10_badnets_none_split2_s42][INFO] [Epoch 049][TRAIN] loss=0.2845 | train_acc=0.8990 | val_acc=0.8243 | asr=0.0403 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:41:28][cifar10_badnets_none_split2_s42][INFO] [Epoch 050][TRAIN] loss=0.2681 | train_acc=0.9054 | val_acc=0.8259 | asr=0.0159 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:41:30][cifar10_badnets_none_split2_s42][INFO] [Epoch 051][TRAIN] loss=0.2724 | train_acc=0.9036 | val_acc=0.8316 | asr=0.0208 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:41:32][cifar10_badnets_none_split2_s42][INFO] [Epoch 052][TRAIN] loss=0.2564 | train_acc=0.9104 | val_acc=0.8351 | asr=0.0161 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:41:34][cifar10_badnets_none_split2_s42][INFO] [Epoch 053][TRAIN] loss=0.2431 | train_acc=0.9126 | val_acc=0.8261 | asr=0.0834 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:41:36][cifar10_badnets_none_split2_s42][INFO] [Epoch 054][TRAIN] loss=0.2498 | train_acc=0.9120 | val_acc=0.8330 | asr=0.0516 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:41:38][cifar10_badnets_none_split2_s42][INFO] [Epoch 055][TRAIN] loss=0.2334 | train_acc=0.9173 | val_acc=0.8277 | asr=0.0161 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:41:40][cifar10_badnets_none_split2_s42][INFO] [Epoch 056][TRAIN] loss=0.2367 | train_acc=0.9168 | val_acc=0.8348 | asr=0.0164 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:41:42][cifar10_badnets_none_split2_s42][INFO] [Epoch 057][TRAIN] loss=0.2251 | train_acc=0.9217 | val_acc=0.7920 | asr=0.0780 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:41:44][cifar10_badnets_none_split2_s42][INFO] [Epoch 058][TRAIN] loss=0.2075 | train_acc=0.9255 | val_acc=0.8197 | asr=0.0678 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:41:46][cifar10_badnets_none_split2_s42][INFO] [Epoch 059][TRAIN] loss=0.2099 | train_acc=0.9258 | val_acc=0.8369 | asr=0.0153 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:41:48][cifar10_badnets_none_split2_s42][INFO] [Epoch 060][TRAIN] loss=0.1995 | train_acc=0.9287 | val_acc=0.8401 | asr=0.0149 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:41:50][cifar10_badnets_none_split2_s42][INFO] [Epoch 061][TRAIN] loss=0.1991 | train_acc=0.9298 | val_acc=0.8252 | asr=0.1327 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:41:52][cifar10_badnets_none_split2_s42][INFO] [Epoch 062][TRAIN] loss=0.1877 | train_acc=0.9327 | val_acc=0.8364 | asr=0.0746 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:41:54][cifar10_badnets_none_split2_s42][INFO] [Epoch 063][TRAIN] loss=0.1871 | train_acc=0.9328 | val_acc=0.8361 | asr=0.0198 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:41:56][cifar10_badnets_none_split2_s42][INFO] [Epoch 064][TRAIN] loss=0.1806 | train_acc=0.9352 | val_acc=0.8439 | asr=0.0154 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:41:58][cifar10_badnets_none_split2_s42][INFO] [Epoch 065][TRAIN] loss=0.1711 | train_acc=0.9379 | val_acc=0.8468 | asr=0.0140 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:42:00][cifar10_badnets_none_split2_s42][INFO] [Epoch 066][TRAIN] loss=0.1738 | train_acc=0.9375 | val_acc=0.8413 | asr=0.0162 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:42:02][cifar10_badnets_none_split2_s42][INFO] [Epoch 067][TRAIN] loss=0.1621 | train_acc=0.9423 | val_acc=0.8468 | asr=0.1550 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:42:04][cifar10_badnets_none_split2_s42][INFO] [Epoch 068][TRAIN] loss=0.1604 | train_acc=0.9435 | val_acc=0.8317 | asr=0.0739 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:42:06][cifar10_badnets_none_split2_s42][INFO] [Epoch 069][TRAIN] loss=0.1462 | train_acc=0.9487 | val_acc=0.8367 | asr=0.0700 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:42:08][cifar10_badnets_none_split2_s42][INFO] [Epoch 070][TRAIN] loss=0.1402 | train_acc=0.9499 | val_acc=0.8331 | asr=0.0963 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:42:10][cifar10_badnets_none_split2_s42][INFO] [Epoch 071][TRAIN] loss=0.1373 | train_acc=0.9504 | val_acc=0.8479 | asr=0.0461 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:42:12][cifar10_badnets_none_split2_s42][INFO] [Epoch 072][TRAIN] loss=0.1324 | train_acc=0.9529 | val_acc=0.8459 | asr=0.0253 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:42:14][cifar10_badnets_none_split2_s42][INFO] [Epoch 073][TRAIN] loss=0.1295 | train_acc=0.9541 | val_acc=0.8485 | asr=0.0127 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:42:15][cifar10_badnets_none_split2_s42][INFO] [Epoch 074][TRAIN] loss=0.1179 | train_acc=0.9584 | val_acc=0.8449 | asr=0.0240 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:42:17][cifar10_badnets_none_split2_s42][INFO] [Epoch 075][TRAIN] loss=0.1141 | train_acc=0.9591 | val_acc=0.8511 | asr=0.0177 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:42:20][cifar10_badnets_none_split2_s42][INFO] [Epoch 076][TRAIN] loss=0.1097 | train_acc=0.9617 | val_acc=0.8484 | asr=0.0142 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:42:21][cifar10_badnets_none_split2_s42][INFO] [Epoch 077][TRAIN] loss=0.1023 | train_acc=0.9637 | val_acc=0.8490 | asr=0.0271 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:42:23][cifar10_badnets_none_split2_s42][INFO] [Epoch 078][TRAIN] loss=0.0996 | train_acc=0.9647 | val_acc=0.8497 | asr=0.0212 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:42:25][cifar10_badnets_none_split2_s42][INFO] [Epoch 079][TRAIN] loss=0.0917 | train_acc=0.9682 | val_acc=0.8517 | asr=0.0117 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:42:27][cifar10_badnets_none_split2_s42][INFO] [Epoch 080][TRAIN] loss=0.0871 | train_acc=0.9699 | val_acc=0.8517 | asr=0.0156 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:42:29][cifar10_badnets_none_split2_s42][INFO] [Epoch 081][TRAIN] loss=0.0841 | train_acc=0.9713 | val_acc=0.8531 | asr=0.0106 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:42:31][cifar10_badnets_none_split2_s42][INFO] [Epoch 082][TRAIN] loss=0.0801 | train_acc=0.9726 | val_acc=0.8531 | asr=0.0160 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:42:33][cifar10_badnets_none_split2_s42][INFO] [Epoch 083][TRAIN] loss=0.0741 | train_acc=0.9740 | val_acc=0.8521 | asr=0.0249 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:42:35][cifar10_badnets_none_split2_s42][INFO] [Epoch 084][TRAIN] loss=0.0745 | train_acc=0.9743 | val_acc=0.8550 | asr=0.0160 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:42:37][cifar10_badnets_none_split2_s42][INFO] [Epoch 085][TRAIN] loss=0.0681 | train_acc=0.9765 | val_acc=0.8432 | asr=0.0394 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:42:39][cifar10_badnets_none_split2_s42][INFO] [Epoch 086][TRAIN] loss=0.0642 | train_acc=0.9782 | val_acc=0.8555 | asr=0.0144 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:42:41][cifar10_badnets_none_split2_s42][INFO] [Epoch 087][TRAIN] loss=0.0654 | train_acc=0.9774 | val_acc=0.8488 | asr=0.0262 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:42:43][cifar10_badnets_none_split2_s42][INFO] [Epoch 088][TRAIN] loss=0.0625 | train_acc=0.9790 | val_acc=0.8568 | asr=0.0189 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:42:45][cifar10_badnets_none_split2_s42][INFO] [Epoch 089][TRAIN] loss=0.0610 | train_acc=0.9789 | val_acc=0.8427 | asr=0.0473 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:42:47][cifar10_badnets_none_split2_s42][INFO] [Epoch 090][TRAIN] loss=0.0562 | train_acc=0.9808 | val_acc=0.8568 | asr=0.0230 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:42:49][cifar10_badnets_none_split2_s42][INFO] [Epoch 091][TRAIN] loss=0.0524 | train_acc=0.9819 | val_acc=0.8553 | asr=0.0192 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:42:51][cifar10_badnets_none_split2_s42][INFO] [Epoch 092][TRAIN] loss=0.0552 | train_acc=0.9813 | val_acc=0.8333 | asr=0.0814 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:42:53][cifar10_badnets_none_split2_s42][INFO] [Epoch 093][TRAIN] loss=0.0542 | train_acc=0.9820 | val_acc=0.8580 | asr=0.0204 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:42:55][cifar10_badnets_none_split2_s42][INFO] [Epoch 094][TRAIN] loss=0.0539 | train_acc=0.9814 | val_acc=0.8576 | asr=0.0166 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:42:57][cifar10_badnets_none_split2_s42][INFO] [Epoch 095][TRAIN] loss=0.0537 | train_acc=0.9821 | val_acc=0.8417 | asr=0.0501 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:42:59][cifar10_badnets_none_split2_s42][INFO] [Epoch 096][TRAIN] loss=0.0516 | train_acc=0.9823 | val_acc=0.8577 | asr=0.0216 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:43:01][cifar10_badnets_none_split2_s42][INFO] [Epoch 097][TRAIN] loss=0.0474 | train_acc=0.9840 | val_acc=0.8571 | asr=0.0219 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:43:03][cifar10_badnets_none_split2_s42][INFO] [Epoch 098][TRAIN] loss=0.0487 | train_acc=0.9842 | val_acc=0.8498 | asr=0.0316 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:43:05][cifar10_badnets_none_split2_s42][INFO] [Epoch 099][TRAIN] loss=0.0507 | train_acc=0.9829 | val_acc=0.8584 | asr=0.0182 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:43:07][cifar10_badnets_none_split2_s42][INFO] [Epoch 100][TRAIN] loss=0.0486 | train_acc=0.9837 | val_acc=0.8518 | asr=0.0304 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:43:07][cifar10_badnets_none_split2_s42][INFO] Final summary saved to results/cifar10_badnets_none_split2_s42/summary.json
+[2026-05-16 18:43:07][cifar10_badnets_none_split2_s42][INFO] Results: {'run_name': 'cifar10_badnets_none_split2_s42', 'final_ca': 85.18, 'final_asr': 3.04, 'config': {'dataset': 'cifar10', 'attack': 'badnets', 'defense': 'none', 'split_layer': 2, 'poison_rate': 0.1, 'epochs': 100, 'batch_size': 128, 'lr': 0.01, 'seed': 42, 'num_clients': 1, 'num_malicious': 0, 'target_class': 0, 'log_dir': './results', 'warmup_epochs': 5, 'image_size': 32, 'num_workers': 4, 'weight_decay': 0.0005, 'adaptive': False, 'ablation': False}}
+[2026-05-16 18:43:07][cifar10_badnets_none_split2_s42][INFO] 
+==================================================
+[2026-05-16 18:43:07][cifar10_badnets_none_split2_s42][INFO] FINAL  CA = 85.18%   ASR = 3.04%
+[2026-05-16 18:43:07][cifar10_badnets_none_split2_s42][INFO] ==================================================
+
+[2026-05-16 18:43:08][cifar10_badnets_none_split2_s42][INFO] Models saved to results/cifar10_badnets_none_split2_s42/checkpoints

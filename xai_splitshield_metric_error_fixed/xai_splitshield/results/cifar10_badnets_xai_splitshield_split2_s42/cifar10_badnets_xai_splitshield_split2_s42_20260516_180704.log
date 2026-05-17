@@ -1,0 +1,22 @@
+[2026-05-16 18:07:04][cifar10_badnets_xai_splitshield_split2_s42][INFO] TensorBoard writer initialized.
+[2026-05-16 18:07:04][cifar10_badnets_xai_splitshield_split2_s42][INFO] Running: cifar10_badnets_xai_splitshield_split2_s42
+[2026-05-16 18:07:04][cifar10_badnets_xai_splitshield_split2_s42][INFO] Device: cuda
+[2026-05-16 18:07:04][cifar10_badnets_xai_splitshield_split2_s42][INFO] Smashed data shape: torch.Size([128, 4, 4])  (d=2048)
+[2026-05-16 18:07:04][cifar10_badnets_xai_splitshield_split2_s42][INFO] [Epoch 1] WARM-UP PHASE
+[2026-05-16 18:07:15][cifar10_badnets_xai_splitshield_split2_s42][INFO] [Epoch 001][TRAIN] loss=2.0174 | train_acc=0.3186 | val_acc=0.4691 | asr=0.0000 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:07:15][cifar10_badnets_xai_splitshield_split2_s42][INFO] [Epoch 2] WARM-UP PHASE
+[2026-05-16 18:07:26][cifar10_badnets_xai_splitshield_split2_s42][INFO] [Epoch 002][TRAIN] loss=1.5903 | train_acc=0.4298 | val_acc=0.5263 | asr=0.0000 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:07:26][cifar10_badnets_xai_splitshield_split2_s42][INFO] [Epoch 3] WARM-UP PHASE
+[2026-05-16 18:07:36][cifar10_badnets_xai_splitshield_split2_s42][INFO] [Epoch 003][TRAIN] loss=1.4594 | train_acc=0.4742 | val_acc=0.5530 | asr=0.0000 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:07:36][cifar10_badnets_xai_splitshield_split2_s42][INFO] [Epoch 4] WARM-UP PHASE
+[2026-05-16 18:07:47][cifar10_badnets_xai_splitshield_split2_s42][INFO] [Epoch 004][TRAIN] loss=1.3362 | train_acc=0.5268 | val_acc=0.6042 | asr=0.0000 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:07:47][cifar10_badnets_xai_splitshield_split2_s42][INFO] [Epoch 5] WARM-UP PHASE
+[2026-05-16 18:07:58][cifar10_badnets_xai_splitshield_split2_s42][INFO] [Epoch 005][TRAIN] loss=1.2120 | train_acc=0.5781 | val_acc=0.6243 | asr=0.0000 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:07:58][cifar10_badnets_xai_splitshield_split2_s42][INFO] Defense calibrated. Threshold τ = 2.9930
+[2026-05-16 18:08:26][cifar10_badnets_xai_splitshield_split2_s42][INFO] [Epoch 006][TRAIN] loss=1.3500 | train_acc=0.5165 | val_acc=0.5662 | asr=0.0794 | aas_mean=4.9175 | precision=0.1266 | recall=0.7317 | f1=0.2158
+[2026-05-16 18:08:54][cifar10_badnets_xai_splitshield_split2_s42][INFO] [Epoch 007][TRAIN] loss=1.2478 | train_acc=0.5647 | val_acc=0.6413 | asr=0.0558 | aas_mean=5.5123 | precision=0.0672 | recall=0.4211 | f1=0.1159
+[2026-05-16 18:09:22][cifar10_badnets_xai_splitshield_split2_s42][INFO] [Epoch 008][TRAIN] loss=1.1454 | train_acc=0.5998 | val_acc=0.7048 | asr=0.0246 | aas_mean=5.5757 | precision=0.0932 | recall=0.5500 | f1=0.1594
+[2026-05-16 18:09:50][cifar10_badnets_xai_splitshield_split2_s42][INFO] [Epoch 009][TRAIN] loss=1.1044 | train_acc=0.6180 | val_acc=0.6591 | asr=0.0921 | aas_mean=6.6823 | precision=0.1096 | recall=0.8462 | f1=0.1941
+[2026-05-16 18:10:18][cifar10_badnets_xai_splitshield_split2_s42][INFO] [Epoch 010][TRAIN] loss=1.0395 | train_acc=0.6461 | val_acc=0.6406 | asr=0.0978 | aas_mean=6.3125 | precision=0.0775 | recall=0.7500 | f1=0.1405
+[2026-05-16 18:10:46][cifar10_badnets_xai_splitshield_split2_s42][INFO] [Epoch 011][TRAIN] loss=0.8539 | train_acc=0.7076 | val_acc=0.7038 | asr=0.0483 | aas_mean=6.4531 | precision=0.1074 | recall=0.7838 | f1=0.1889
+[2026-05-16 18:11:15][cifar10_badnets_xai_splitshield_split2_s42][INFO] [Epoch 012][TRAIN] loss=0.7209 | train_acc=0.7484 | val_acc=0.7319 | asr=0.0119 | aas_mean=6.8294 | precision=0.1298 | recall=0.8222 | f1=0.2242

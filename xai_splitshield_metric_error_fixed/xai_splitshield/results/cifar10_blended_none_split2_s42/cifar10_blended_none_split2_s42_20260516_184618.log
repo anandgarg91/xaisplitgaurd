@@ -1,0 +1,117 @@
+[2026-05-16 18:46:18][cifar10_blended_none_split2_s42][INFO] TensorBoard writer initialized.
+[2026-05-16 18:46:18][cifar10_blended_none_split2_s42][INFO] Running: cifar10_blended_none_split2_s42
+[2026-05-16 18:46:18][cifar10_blended_none_split2_s42][INFO] Device: cuda
+[2026-05-16 18:46:18][cifar10_blended_none_split2_s42][INFO] Smashed data shape: torch.Size([128, 4, 4])  (d=2048)
+[2026-05-16 18:46:18][cifar10_blended_none_split2_s42][INFO] [Epoch 1] WARM-UP PHASE
+[2026-05-16 18:46:20][cifar10_blended_none_split2_s42][INFO] [Epoch 001][TRAIN] loss=2.0116 | train_acc=0.3200 | val_acc=0.4702 | asr=0.0000 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:46:20][cifar10_blended_none_split2_s42][INFO] [Epoch 2] WARM-UP PHASE
+[2026-05-16 18:46:22][cifar10_blended_none_split2_s42][INFO] [Epoch 002][TRAIN] loss=1.5733 | train_acc=0.4327 | val_acc=0.5058 | asr=0.0000 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:46:22][cifar10_blended_none_split2_s42][INFO] [Epoch 3] WARM-UP PHASE
+[2026-05-16 18:46:24][cifar10_blended_none_split2_s42][INFO] [Epoch 003][TRAIN] loss=1.4464 | train_acc=0.4836 | val_acc=0.5587 | asr=0.0000 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:46:24][cifar10_blended_none_split2_s42][INFO] [Epoch 4] WARM-UP PHASE
+[2026-05-16 18:46:26][cifar10_blended_none_split2_s42][INFO] [Epoch 004][TRAIN] loss=1.3412 | train_acc=0.5300 | val_acc=0.6118 | asr=0.0000 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:46:26][cifar10_blended_none_split2_s42][INFO] [Epoch 5] WARM-UP PHASE
+[2026-05-16 18:46:27][cifar10_blended_none_split2_s42][INFO] [Epoch 005][TRAIN] loss=1.2265 | train_acc=0.5756 | val_acc=0.5946 | asr=0.0000 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:46:29][cifar10_blended_none_split2_s42][INFO] [Epoch 006][TRAIN] loss=1.1963 | train_acc=0.5824 | val_acc=0.6539 | asr=0.0357 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:46:31][cifar10_blended_none_split2_s42][INFO] [Epoch 007][TRAIN] loss=1.1490 | train_acc=0.6029 | val_acc=0.6936 | asr=0.0680 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:46:33][cifar10_blended_none_split2_s42][INFO] [Epoch 008][TRAIN] loss=1.0878 | train_acc=0.6229 | val_acc=0.7103 | asr=0.0273 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:46:35][cifar10_blended_none_split2_s42][INFO] [Epoch 009][TRAIN] loss=1.0685 | train_acc=0.6337 | val_acc=0.6885 | asr=0.0464 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:46:38][cifar10_blended_none_split2_s42][INFO] [Epoch 010][TRAIN] loss=1.0102 | train_acc=0.6607 | val_acc=0.7176 | asr=0.0642 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:46:40][cifar10_blended_none_split2_s42][INFO] [Epoch 011][TRAIN] loss=1.0100 | train_acc=0.6563 | val_acc=0.7077 | asr=0.0670 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:46:42][cifar10_blended_none_split2_s42][INFO] [Epoch 012][TRAIN] loss=1.0126 | train_acc=0.6494 | val_acc=0.7224 | asr=0.0588 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:46:44][cifar10_blended_none_split2_s42][INFO] [Epoch 013][TRAIN] loss=0.9478 | train_acc=0.6795 | val_acc=0.7292 | asr=0.0422 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:46:46][cifar10_blended_none_split2_s42][INFO] [Epoch 014][TRAIN] loss=0.9416 | train_acc=0.6816 | val_acc=0.7578 | asr=0.0356 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:46:48][cifar10_blended_none_split2_s42][INFO] [Epoch 015][TRAIN] loss=0.9334 | train_acc=0.6803 | val_acc=0.7584 | asr=0.0367 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:46:50][cifar10_blended_none_split2_s42][INFO] [Epoch 016][TRAIN] loss=0.9350 | train_acc=0.6784 | val_acc=0.7362 | asr=0.0899 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:46:52][cifar10_blended_none_split2_s42][INFO] [Epoch 017][TRAIN] loss=0.8619 | train_acc=0.7146 | val_acc=0.7397 | asr=0.0546 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:46:53][cifar10_blended_none_split2_s42][INFO] [Epoch 018][TRAIN] loss=0.8927 | train_acc=0.7018 | val_acc=0.7647 | asr=0.0171 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:46:56][cifar10_blended_none_split2_s42][INFO] [Epoch 019][TRAIN] loss=0.8730 | train_acc=0.7029 | val_acc=0.7651 | asr=0.0372 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:46:58][cifar10_blended_none_split2_s42][INFO] [Epoch 020][TRAIN] loss=0.8464 | train_acc=0.7114 | val_acc=0.7780 | asr=0.0166 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:47:00][cifar10_blended_none_split2_s42][INFO] [Epoch 021][TRAIN] loss=0.8107 | train_acc=0.7309 | val_acc=0.7638 | asr=0.0111 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:47:02][cifar10_blended_none_split2_s42][INFO] [Epoch 022][TRAIN] loss=0.8019 | train_acc=0.7327 | val_acc=0.7805 | asr=0.0381 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:47:04][cifar10_blended_none_split2_s42][INFO] [Epoch 023][TRAIN] loss=0.8303 | train_acc=0.7176 | val_acc=0.7692 | asr=0.0542 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:47:05][cifar10_blended_none_split2_s42][INFO] [Epoch 024][TRAIN] loss=0.7990 | train_acc=0.7320 | val_acc=0.7741 | asr=0.0240 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:47:07][cifar10_blended_none_split2_s42][INFO] [Epoch 025][TRAIN] loss=0.8078 | train_acc=0.7323 | val_acc=0.7798 | asr=0.0210 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:47:09][cifar10_blended_none_split2_s42][INFO] [Epoch 026][TRAIN] loss=0.8064 | train_acc=0.7257 | val_acc=0.8006 | asr=0.0143 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:47:11][cifar10_blended_none_split2_s42][INFO] [Epoch 027][TRAIN] loss=0.7597 | train_acc=0.7481 | val_acc=0.7858 | asr=0.0427 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:47:13][cifar10_blended_none_split2_s42][INFO] [Epoch 028][TRAIN] loss=0.7490 | train_acc=0.7489 | val_acc=0.7986 | asr=0.0227 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:47:15][cifar10_blended_none_split2_s42][INFO] [Epoch 029][TRAIN] loss=0.7214 | train_acc=0.7653 | val_acc=0.7986 | asr=0.0258 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:47:17][cifar10_blended_none_split2_s42][INFO] [Epoch 030][TRAIN] loss=0.7039 | train_acc=0.7674 | val_acc=0.7906 | asr=0.0247 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:47:19][cifar10_blended_none_split2_s42][INFO] [Epoch 031][TRAIN] loss=0.6838 | train_acc=0.7804 | val_acc=0.7990 | asr=0.0228 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:47:21][cifar10_blended_none_split2_s42][INFO] [Epoch 032][TRAIN] loss=0.6733 | train_acc=0.7796 | val_acc=0.8025 | asr=0.0278 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:47:23][cifar10_blended_none_split2_s42][INFO] [Epoch 033][TRAIN] loss=0.7317 | train_acc=0.7533 | val_acc=0.8107 | asr=0.0293 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:47:25][cifar10_blended_none_split2_s42][INFO] [Epoch 034][TRAIN] loss=0.7389 | train_acc=0.7505 | val_acc=0.8087 | asr=0.0211 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:47:27][cifar10_blended_none_split2_s42][INFO] [Epoch 035][TRAIN] loss=0.6857 | train_acc=0.7726 | val_acc=0.8064 | asr=0.0417 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:47:29][cifar10_blended_none_split2_s42][INFO] [Epoch 036][TRAIN] loss=0.7038 | train_acc=0.7632 | val_acc=0.8158 | asr=0.0172 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:47:31][cifar10_blended_none_split2_s42][INFO] [Epoch 037][TRAIN] loss=0.6673 | train_acc=0.7809 | val_acc=0.8095 | asr=0.0260 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:47:33][cifar10_blended_none_split2_s42][INFO] [Epoch 038][TRAIN] loss=0.7220 | train_acc=0.7519 | val_acc=0.8118 | asr=0.0202 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:47:35][cifar10_blended_none_split2_s42][INFO] [Epoch 039][TRAIN] loss=0.6669 | train_acc=0.7823 | val_acc=0.8091 | asr=0.0457 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:47:37][cifar10_blended_none_split2_s42][INFO] [Epoch 040][TRAIN] loss=0.6307 | train_acc=0.7945 | val_acc=0.8195 | asr=0.0180 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:47:39][cifar10_blended_none_split2_s42][INFO] [Epoch 041][TRAIN] loss=0.6702 | train_acc=0.7726 | val_acc=0.8123 | asr=0.0190 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:47:41][cifar10_blended_none_split2_s42][INFO] [Epoch 042][TRAIN] loss=0.6797 | train_acc=0.7742 | val_acc=0.8101 | asr=0.0300 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:47:43][cifar10_blended_none_split2_s42][INFO] [Epoch 043][TRAIN] loss=0.6620 | train_acc=0.7779 | val_acc=0.8217 | asr=0.0267 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:47:45][cifar10_blended_none_split2_s42][INFO] [Epoch 044][TRAIN] loss=0.7058 | train_acc=0.7554 | val_acc=0.8180 | asr=0.0353 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:47:47][cifar10_blended_none_split2_s42][INFO] [Epoch 045][TRAIN] loss=0.5949 | train_acc=0.8064 | val_acc=0.8175 | asr=0.0140 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:47:49][cifar10_blended_none_split2_s42][INFO] [Epoch 046][TRAIN] loss=0.5989 | train_acc=0.8027 | val_acc=0.8184 | asr=0.0176 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:47:51][cifar10_blended_none_split2_s42][INFO] [Epoch 047][TRAIN] loss=0.6333 | train_acc=0.7891 | val_acc=0.8074 | asr=0.0698 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:47:53][cifar10_blended_none_split2_s42][INFO] [Epoch 048][TRAIN] loss=0.5829 | train_acc=0.8153 | val_acc=0.8231 | asr=0.0213 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:47:55][cifar10_blended_none_split2_s42][INFO] [Epoch 049][TRAIN] loss=0.5813 | train_acc=0.8095 | val_acc=0.8227 | asr=0.0357 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:47:57][cifar10_blended_none_split2_s42][INFO] [Epoch 050][TRAIN] loss=0.6387 | train_acc=0.7823 | val_acc=0.8250 | asr=0.0148 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:47:59][cifar10_blended_none_split2_s42][INFO] [Epoch 051][TRAIN] loss=0.5370 | train_acc=0.8270 | val_acc=0.8269 | asr=0.0296 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:48:01][cifar10_blended_none_split2_s42][INFO] [Epoch 052][TRAIN] loss=0.5645 | train_acc=0.8153 | val_acc=0.8353 | asr=0.0217 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:48:03][cifar10_blended_none_split2_s42][INFO] [Epoch 053][TRAIN] loss=0.5987 | train_acc=0.7993 | val_acc=0.8286 | asr=0.0221 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:48:05][cifar10_blended_none_split2_s42][INFO] [Epoch 054][TRAIN] loss=0.5782 | train_acc=0.8089 | val_acc=0.8312 | asr=0.0288 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:48:07][cifar10_blended_none_split2_s42][INFO] [Epoch 055][TRAIN] loss=0.5970 | train_acc=0.8002 | val_acc=0.8357 | asr=0.0188 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:48:09][cifar10_blended_none_split2_s42][INFO] [Epoch 056][TRAIN] loss=0.5439 | train_acc=0.8217 | val_acc=0.8263 | asr=0.0220 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:48:11][cifar10_blended_none_split2_s42][INFO] [Epoch 057][TRAIN] loss=0.5420 | train_acc=0.8225 | val_acc=0.8135 | asr=0.0547 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:48:13][cifar10_blended_none_split2_s42][INFO] [Epoch 058][TRAIN] loss=0.5753 | train_acc=0.7930 | val_acc=0.8057 | asr=0.0869 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:48:15][cifar10_blended_none_split2_s42][INFO] [Epoch 059][TRAIN] loss=0.5568 | train_acc=0.8154 | val_acc=0.8318 | asr=0.0228 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:48:17][cifar10_blended_none_split2_s42][INFO] [Epoch 060][TRAIN] loss=0.5300 | train_acc=0.8270 | val_acc=0.8350 | asr=0.0259 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:48:19][cifar10_blended_none_split2_s42][INFO] [Epoch 061][TRAIN] loss=0.5403 | train_acc=0.8260 | val_acc=0.8146 | asr=0.0574 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:48:21][cifar10_blended_none_split2_s42][INFO] [Epoch 062][TRAIN] loss=0.5190 | train_acc=0.8315 | val_acc=0.8343 | asr=0.0174 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:48:23][cifar10_blended_none_split2_s42][INFO] [Epoch 063][TRAIN] loss=0.5103 | train_acc=0.8338 | val_acc=0.8391 | asr=0.0232 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:48:25][cifar10_blended_none_split2_s42][INFO] [Epoch 064][TRAIN] loss=0.5092 | train_acc=0.8348 | val_acc=0.8330 | asr=0.0149 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:48:27][cifar10_blended_none_split2_s42][INFO] [Epoch 065][TRAIN] loss=0.5421 | train_acc=0.8167 | val_acc=0.8413 | asr=0.0197 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:48:29][cifar10_blended_none_split2_s42][INFO] [Epoch 066][TRAIN] loss=0.4081 | train_acc=0.8742 | val_acc=0.8323 | asr=0.0313 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:48:31][cifar10_blended_none_split2_s42][INFO] [Epoch 067][TRAIN] loss=0.4531 | train_acc=0.8546 | val_acc=0.8417 | asr=0.0182 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:48:33][cifar10_blended_none_split2_s42][INFO] [Epoch 068][TRAIN] loss=0.4356 | train_acc=0.8643 | val_acc=0.8399 | asr=0.0222 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:48:35][cifar10_blended_none_split2_s42][INFO] [Epoch 069][TRAIN] loss=0.4930 | train_acc=0.8387 | val_acc=0.8345 | asr=0.0427 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:48:37][cifar10_blended_none_split2_s42][INFO] [Epoch 070][TRAIN] loss=0.4907 | train_acc=0.8367 | val_acc=0.8350 | asr=0.0284 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:48:39][cifar10_blended_none_split2_s42][INFO] [Epoch 071][TRAIN] loss=0.4526 | train_acc=0.8555 | val_acc=0.8468 | asr=0.0176 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:48:41][cifar10_blended_none_split2_s42][INFO] [Epoch 072][TRAIN] loss=0.4363 | train_acc=0.8617 | val_acc=0.8455 | asr=0.0237 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:48:43][cifar10_blended_none_split2_s42][INFO] [Epoch 073][TRAIN] loss=0.4401 | train_acc=0.8594 | val_acc=0.8420 | asr=0.0190 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:48:45][cifar10_blended_none_split2_s42][INFO] [Epoch 074][TRAIN] loss=0.4487 | train_acc=0.8555 | val_acc=0.8427 | asr=0.0227 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:48:47][cifar10_blended_none_split2_s42][INFO] [Epoch 075][TRAIN] loss=0.4351 | train_acc=0.8620 | val_acc=0.8443 | asr=0.0234 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:48:49][cifar10_blended_none_split2_s42][INFO] [Epoch 076][TRAIN] loss=0.3995 | train_acc=0.8775 | val_acc=0.8447 | asr=0.0232 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:48:51][cifar10_blended_none_split2_s42][INFO] [Epoch 077][TRAIN] loss=0.4463 | train_acc=0.8556 | val_acc=0.8456 | asr=0.0244 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:48:53][cifar10_blended_none_split2_s42][INFO] [Epoch 078][TRAIN] loss=0.3987 | train_acc=0.8754 | val_acc=0.8431 | asr=0.0308 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:48:55][cifar10_blended_none_split2_s42][INFO] [Epoch 079][TRAIN] loss=0.4235 | train_acc=0.8632 | val_acc=0.8484 | asr=0.0236 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:48:57][cifar10_blended_none_split2_s42][INFO] [Epoch 080][TRAIN] loss=0.3899 | train_acc=0.8778 | val_acc=0.8426 | asr=0.0323 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:48:59][cifar10_blended_none_split2_s42][INFO] [Epoch 081][TRAIN] loss=0.4099 | train_acc=0.8673 | val_acc=0.8497 | asr=0.0151 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:49:01][cifar10_blended_none_split2_s42][INFO] [Epoch 082][TRAIN] loss=0.3978 | train_acc=0.8757 | val_acc=0.8433 | asr=0.0276 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:49:03][cifar10_blended_none_split2_s42][INFO] [Epoch 083][TRAIN] loss=0.4200 | train_acc=0.8623 | val_acc=0.8483 | asr=0.0266 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:49:05][cifar10_blended_none_split2_s42][INFO] [Epoch 084][TRAIN] loss=0.3966 | train_acc=0.8730 | val_acc=0.8452 | asr=0.0310 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:49:07][cifar10_blended_none_split2_s42][INFO] [Epoch 085][TRAIN] loss=0.3610 | train_acc=0.8897 | val_acc=0.8509 | asr=0.0202 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:49:09][cifar10_blended_none_split2_s42][INFO] [Epoch 086][TRAIN] loss=0.3868 | train_acc=0.8767 | val_acc=0.8499 | asr=0.0213 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:49:11][cifar10_blended_none_split2_s42][INFO] [Epoch 087][TRAIN] loss=0.3596 | train_acc=0.8881 | val_acc=0.8503 | asr=0.0212 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:49:13][cifar10_blended_none_split2_s42][INFO] [Epoch 088][TRAIN] loss=0.3832 | train_acc=0.8785 | val_acc=0.8450 | asr=0.0300 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:49:15][cifar10_blended_none_split2_s42][INFO] [Epoch 089][TRAIN] loss=0.3675 | train_acc=0.8851 | val_acc=0.8490 | asr=0.0272 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:49:17][cifar10_blended_none_split2_s42][INFO] [Epoch 090][TRAIN] loss=0.3840 | train_acc=0.8776 | val_acc=0.8500 | asr=0.0276 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:49:19][cifar10_blended_none_split2_s42][INFO] [Epoch 091][TRAIN] loss=0.3865 | train_acc=0.8748 | val_acc=0.8480 | asr=0.0324 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:49:21][cifar10_blended_none_split2_s42][INFO] [Epoch 092][TRAIN] loss=0.2767 | train_acc=0.9232 | val_acc=0.8504 | asr=0.0221 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:49:23][cifar10_blended_none_split2_s42][INFO] [Epoch 093][TRAIN] loss=0.3234 | train_acc=0.9021 | val_acc=0.8509 | asr=0.0230 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:49:25][cifar10_blended_none_split2_s42][INFO] [Epoch 094][TRAIN] loss=0.3119 | train_acc=0.9079 | val_acc=0.8503 | asr=0.0234 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:49:27][cifar10_blended_none_split2_s42][INFO] [Epoch 095][TRAIN] loss=0.3332 | train_acc=0.8992 | val_acc=0.8509 | asr=0.0229 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:49:29][cifar10_blended_none_split2_s42][INFO] [Epoch 096][TRAIN] loss=0.3522 | train_acc=0.8914 | val_acc=0.8513 | asr=0.0251 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:49:31][cifar10_blended_none_split2_s42][INFO] [Epoch 097][TRAIN] loss=0.3786 | train_acc=0.8783 | val_acc=0.8486 | asr=0.0317 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:49:33][cifar10_blended_none_split2_s42][INFO] [Epoch 098][TRAIN] loss=0.3687 | train_acc=0.8825 | val_acc=0.8502 | asr=0.0264 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:49:35][cifar10_blended_none_split2_s42][INFO] [Epoch 099][TRAIN] loss=0.3069 | train_acc=0.9102 | val_acc=0.8493 | asr=0.0271 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:49:37][cifar10_blended_none_split2_s42][INFO] [Epoch 100][TRAIN] loss=0.4324 | train_acc=0.8544 | val_acc=0.8505 | asr=0.0256 | aas_mean=0.0000 | precision=0.0000 | recall=0.0000 | f1=0.0000
+[2026-05-16 18:49:37][cifar10_blended_none_split2_s42][INFO] Final summary saved to results/cifar10_blended_none_split2_s42/summary.json
+[2026-05-16 18:49:37][cifar10_blended_none_split2_s42][INFO] Results: {'run_name': 'cifar10_blended_none_split2_s42', 'final_ca': 85.05, 'final_asr': 2.56, 'config': {'dataset': 'cifar10', 'attack': 'blended', 'defense': 'none', 'split_layer': 2, 'poison_rate': 0.1, 'epochs': 100, 'batch_size': 128, 'lr': 0.01, 'seed': 42, 'num_clients': 1, 'num_malicious': 0, 'target_class': 0, 'log_dir': './results', 'warmup_epochs': 5, 'image_size': 32, 'num_workers': 4, 'weight_decay': 0.0005, 'adaptive': False, 'ablation': False}}
+[2026-05-16 18:49:37][cifar10_blended_none_split2_s42][INFO] 
+==================================================
+[2026-05-16 18:49:37][cifar10_blended_none_split2_s42][INFO] FINAL  CA = 85.05%   ASR = 2.56%
+[2026-05-16 18:49:37][cifar10_blended_none_split2_s42][INFO] ==================================================
+
+[2026-05-16 18:49:37][cifar10_blended_none_split2_s42][INFO] Models saved to results/cifar10_blended_none_split2_s42/checkpoints
